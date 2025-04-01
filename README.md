@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 ![Akira-zyh's Stats](https://github-readme-stats.vercel.app/api?username=Akira-zyh&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true)
 
 
-![Akira-zyh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akira-zyh&theme=shades-of-purple&hide_border=true)
 
 
 ![Akira-zyh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akira-zyh&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact)
+
+
+
+![Akira-zyh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akira-zyh&theme=shades-of-purple&hide_border=true)
